@@ -123,22 +123,3 @@ Without `sudo`, you may miss:
 ├── watcher.sh
 └── README.md
 ```
-
-## Upload to GitHub
-
-From this folder:
-
-```bash
-git init
-git add watcher.py watcher.sh README.md
-git commit -m "Add Watcher Python and Bash monitors"
-git branch -M main
-git remote add origin https://github.com/<your-username>/Watcher.git
-git push -u origin main
-```
-
-If remote already has commits, pull/rebase before pushing.
-
-## License
-
-Add a `LICENSE` file before publishing (MIT is a common choice).
