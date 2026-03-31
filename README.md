@@ -1,6 +1,9 @@
 # Watcher
 
+<img width="250" height="250" alt="Screenshot 2026-03-31 at 11 26 59 AM" src="https://github.com/user-attachments/assets/eb749745-5d03-4d16-b2ae-0ef495f96395" />
+
 Lightweight Linux terminal monitor for CTF/KOTH and quick incident-response visibility.
+
 
 ![Platform](https://img.shields.io/badge/platform-linux-informational)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
